@@ -1,0 +1,301 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Republic Officer",
+          "title": "Trained For Leadership",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790538/EBB9911B9EB9C0F817370266A8ACB8357BEB3919/",
+          "size": "small",
+          "type": "Republic Trooper",
+          "points": 60,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539990828/D1AF0B044537E29C964C753625635E55B5D9C287/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+            }
+          ]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "Republic Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790336/C2B0C8EB973E7D6657E288E5AFE9C3F00809461A/",
+          "size": "small",
+          "type": "Republic Trooper",
+          "points": 52,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539945162/7492E2BA79D23C02A22D8E747AB9FE073EDB54B3/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539949410/AFCF10326A9327BB965067A02879F4D1ADEB99B7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539957196/8F85D7A41721AB07C4FA1B67B45B0381DAC50CB7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539959876/1D4BB2671F1DD73AB60E09A7B467E3144115612E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539961858/8EF7034EB2045E3585F0C41A55C3AD21F34B0E74/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539953312/C842AF0AC2D8C134477F497B77E6B1465AD74CDC/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+            }
+          ]
+        },
+		{
+          "name": "M14-X Combat Droids",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790336/C2B0C8EB973E7D6657E288E5AFE9C3F00809461A/",
+          "size": "small",
+          "type": "Republic Droid",
+          "points": 60,
+          "speed": 2,
+          "upgrades": {
+            "Personnel": 1,
+            "Gear": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487780209958/632F9E83C4CED0C9F35E3486B8946B0300F7B20D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487780210090/D52AFADD36541D0671E7614D4F58C9BDDDD55A98/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487780209958/632F9E83C4CED0C9F35E3486B8946B0300F7B20D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487780210090/D52AFADD36541D0671E7614D4F58C9BDDDD55A98/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487780209958/632F9E83C4CED0C9F35E3486B8946B0300F7B20D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487780210090/D52AFADD36541D0671E7614D4F58C9BDDDD55A98/"
+            }
+          ]
+        },
+		{
+          "name": "Siantide Droids",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790336/C2B0C8EB973E7D6657E288E5AFE9C3F00809461A/",
+          "size": "small",
+          "type": "Republic Droid",
+          "points": 52,
+          "speed": 2,
+          "upgrades": {
+            "Personnel": 1,
+            "Gear": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487780271147/0FE5625E44D3A816C29001BC08A41B028771A73D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487780271298/D25F6E6E7D5B388EBEAE8A34114172F1821F6912/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487780271147/0FE5625E44D3A816C29001BC08A41B028771A73D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487780271298/D25F6E6E7D5B388EBEAE8A34114172F1821F6912/"
+            }
+          ]
+        }
+      "Support": [
+	    {
+          "name": "FA-1 Walker Mk.II",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1616219505081189285/5E0D18805F9C4BF8A978A9F1F20CFAE73575D02F/",
+          "size": "large",
+          "type": "Ground Vehicle",
+          "points": 65,
+          "speed": 3,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487779852690/A1566466D336CB20F1C6D35717903CD8FB0CC3A5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487779852872/7652C9FD76BC7D4BB69C384A2CE08252ABB4D24D/"
+            }
+          ]
+        },
+        {
+          "name": "FA-1 Walker Mk.I",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790145/DD6B7ACA36B88E28B4326E7AA96536230B87F01E/",
+          "size": "large",
+          "type": "Ground Vehicle",
+          "points": 55,
+          "speed": 3,
+          "upgrades": {
+            "Crew": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487779853642/250C82219891082FC01C97B872ECF090AA333117/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487779852872/7652C9FD76BC7D4BB69C384A2CE08252ABB4D24D/"
+            }
+          ]
+        }
+      ],
+      "Heavy": [
+		{
+          "name": "Republic Lance Walker",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1616219505081189285/5E0D18805F9C4BF8A978A9F1F20CFAE73575D02F/",
+          "size": "large",
+          "type": "Ground Vehicle",
+          "points": 75,
+          "speed": 2,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487779853943/D35E3DEDC861E65F6386336277F0523F8802E1F2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487779853742/8EC4EAC148BEC97505995DBE4573530BB083C6F0/"
+            }
+          ]
+        },
+		{
+          "name": "Revanite Walker",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1616219505081189285/5E0D18805F9C4BF8A978A9F1F20CFAE73575D02F/",
+          "size": "huge",
+          "type": "Ground Vehicle",
+          "points": 85,
+          "speed": 1,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/954096487779885000/3563D76E0A782EAFF0A375426E4235C69F4A2A28/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/954096487779885048/C2BB4E171A303C7B2C6B5F14ABC2BB2CA104388E/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "upgrades": {
+    "Heavy Weapon": [
+      {
+        "name": "Republic Vanguard Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140181/C7BE6B6A297BE993DDE8AB32151DB8E6240A2745/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539974407/06284AEC58464ECB98C015F0ABB2AD89B0BBDFAB/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+        },
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["Republic Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Republic AT Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145035/004176D5900A3EC760D76F2657A811F811377443/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539904775/699450C5AD882393D99DAF4557F47578D1D73E5E/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+        },
+        "points": 21,
+        "restrictions": {
+          "include": {
+            "unit": ["Republic Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Republic Heavy Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139741/18705CF14C8BD2D88CF1827FE171F64D919E03C6/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539816449/CCCA647E50A7709FBB0202B428BE29FF7109736B/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+        },
+        "points": 26,
+        "restrictions": {
+          "include": {
+            "unit": ["Republic Troopers"]
+          }
+        }
+      },
+    ],
+    "Personnel": [
+      {
+        "name": "Republic Marksman",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144315/9F73C154A39FAC78D16182FE4BA40C5CBFFE261F/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539802848/F7D0D6E58770841FCEB99D71C5A199D7E00424CD/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+        },
+        "points": 11,
+        "restrictions": {
+          "include": {
+            "unit": ["Republic Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Republic Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144353/1238774FBDEE0A8E0E02849601C850720C86F506/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539945162/7492E2BA79D23C02A22D8E747AB9FE073EDB54B3/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+        },
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Republic Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Republic Combat Medic",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139361/BD135C31EA1FAE5CED684E0BAEA59F27C40A42B1/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539961858/8EF7034EB2045E3585F0C41A55C3AD21F34B0E74/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+        },
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "type": ["Republic Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Republic Officer",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139272/747D9B51470E308061A8A4A21FBA5B28B2CEC1BB/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1710792009539990828/D1AF0B044537E29C964C753625635E55B5D9C287/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1710792009539783700/D091BEB365C8AAE3EFF4B2CF6BDC2706654D01FB/"
+        },
+        "leader": true,
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "type": ["Republic Troopers"]
+          }
+        }
+      },
+    ]
+  }
+}
